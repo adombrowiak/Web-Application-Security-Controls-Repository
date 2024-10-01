@@ -1,6 +1,6 @@
 <h1>Web Application Security Controls</h1>
 
-[Project 3:Web Application Security Controls](https://github.com/user-attachments/files/17174763/dombrowiak_CST620_Project3.pdf)
+[Project 3: Web Application Security Controls](https://github.com/user-attachments/files/17174763/dombrowiak_CST620_Project3.pdf)
 
 <h2>Description</h2>
 Understanding how to install a web server and enable secure communications with the web server.
